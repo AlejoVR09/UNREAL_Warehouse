@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/StarterContent/BP_Projectile1.uasset",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/MAin.umap",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Rack02.uasset",
+				"C:/Users/alejandro.vanegas/Documents/Unreal Projects/Warehouse/Content/StarterContent/BP_Barrel.uasset"
+			]
+		}
+	]
+}
